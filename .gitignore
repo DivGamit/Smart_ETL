@@ -1,1 +1,6 @@
+# Streamlit
+.streamlit/
 
+# Python junk
+__pycache__/
+*.pyc
